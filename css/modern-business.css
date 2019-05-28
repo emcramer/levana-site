@@ -33,3 +33,8 @@ body {
   padding: 0.5rem 1rem;
   text-color: #000080;
 }
+
+.iwt{
+  display: block;
+  text-align: center;
+}
